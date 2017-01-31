@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Sales Rep</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_pwd">Password</string>
+    <string name="btn_login">Login</string>
+
+    <string name="btn_clockin">Clock In</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_start">Start</string>
+
+    <string name="btn_add">Add New</string>
+    <string name="hint_shopname">Shop name</string>
+    <string name="hint_owner_name">Shop owner name</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_lat">Latitude</string>
+    <string name="hint_long">Longitude</string>
+    <string name="hint_village">Village</string>
+    <string name="hint_sub_village">Sub village</string>
+    <string name="hint_district">District</string>
+    <string name="hint_sub_district">Sub district</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_distance">Distance</string>
+
+    <string name="btn_submit">Submit</string>
+</resources>
