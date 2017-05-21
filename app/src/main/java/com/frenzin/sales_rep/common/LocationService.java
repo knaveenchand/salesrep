@@ -239,7 +239,7 @@ public class LocationService extends Service implements LocationListener {
 
                 if (distance > d) {
                     prefs.edit().putBoolean("isClockIn", false).commit();
-                    SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
+                    SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
                     Date curDate = new Date();
                     String datetime = format.format(curDate);
                     int r_id1 = prefs.getInt("r_id", 0);
